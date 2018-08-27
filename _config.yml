@@ -1,0 +1,20 @@
+# Site settings
+name: Keep
+email: pw521205@qq.com
+author: pw
+url: 
+github: https://github.com/pureworld/
+baseurl: ''
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: pureworld
+
+# Build settings
+markdown: kramdown
+
+
